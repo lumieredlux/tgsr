@@ -1,0 +1,12 @@
+#pyrogram
+git+https://github.com/Sumit0045/pyrogram
+tgcrypto
+pyromod
+requests
+motor
+pytz
+hachoir
+telegraph
+flask==2.2.2
+gunicorn==20.1.0
+
